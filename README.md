@@ -1,5 +1,5 @@
 # Flashcard
-### Admin Login Details
+## Admin Login Details
 ```
 Username: admin
 Password: password
